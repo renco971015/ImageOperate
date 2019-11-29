@@ -23,7 +23,6 @@ import java.util.Map;
  * 说明：<文档编写说明>
  */
 public class QrCodeCreate {
-    //todo:生成二维码信息
     @Test
     public void createQrCodeInfo() {
         //生成二维码
